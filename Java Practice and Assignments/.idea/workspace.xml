@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08d98ff5-bd79-48df-93df-713d355fb7b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/arrayAndSmallTodoProject/LargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/arrayAndSmallTodoProject/SumOfAllElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/searching_and_sorting/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/searching_and_sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/searching_and_sorting/LinearSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/searching_and_sorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/universitySpecialQuestions/CompareNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/universitySpecialQuestions/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/universitySpecialQuestions/FahrenheitToCelcius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/universitySpecialQuestions/GradingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/universitySpecialQuestions/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/universitySpecialQuestions/OddAndEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/bin/universitySpecialQuestions/RandomNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/arrayAndSmallTodoProject/LargestElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/arrayAndSmallTodoProject/SumOfAllElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/searching_and_sorting/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/searching_and_sorting/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/searching_and_sorting/LinearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/searching_and_sorting/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/universitySpecialQuestions/CompareNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/universitySpecialQuestions/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/universitySpecialQuestions/FahrenheitToCelcius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/universitySpecialQuestions/GradingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/universitySpecialQuestions/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/universitySpecialQuestions/OddAndEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStackJavaPractice/src/universitySpecialQuestions/RandomNumbers.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ATHtSBrXQveLTDmDh1mE9TQIrt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="printmyArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.printmyArrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.printmyArrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08d98ff5-bd79-48df-93df-713d355fb7b1" name="Changes" comment="" />
+      <created>1655026874357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655026874357</updated>
+    </task>
+    <servers />
+  </component>
+</project>
