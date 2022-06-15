@@ -10,4 +10,11 @@
 <result name="error">/error.jsp </result>		
 </action>
 	</package>
+	
+<package name="loginme" namespace="/login" extends="struts-default">
+<action name="login" class="com.practice.action.LoginAction">			
+<result name="success">/success.jsp </result>
+<result name="error">/login.jsp </result>		
+</action>
+	</package>
 </struts>

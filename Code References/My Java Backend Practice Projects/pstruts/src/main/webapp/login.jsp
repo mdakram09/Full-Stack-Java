@@ -7,10 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<form method="post" action="User/getTutorial.action">
-<input type="text" name="language">
+<form method="post" action="login/login.action">
+<input type="text" name="username">
+<input type="text" name="password">
 <input type="submit">
 </form>
+
 </body>
 </html>
