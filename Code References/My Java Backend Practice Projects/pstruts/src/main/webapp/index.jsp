@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-index page
+
+<form method="post" action="User/getTutorial.action">
+<input type="text" name="language">
+<input type="submit">
+</form>
 </body>
 </html>

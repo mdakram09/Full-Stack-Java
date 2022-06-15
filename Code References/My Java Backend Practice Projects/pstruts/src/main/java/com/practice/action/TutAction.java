@@ -8,8 +8,9 @@ public class TutAction {
 	private String language;
 	
 	public String execute() {
-		TutService tutorialFinderService = new TutService();
-		String bestTutorialSite = tutorialFinderService.getBestTutorialSite();
+		TutService tutService = new TutService();
+//		String bestTutorialSite = tutorialFinderService.getBestTutorialSite();
+		setBestTutorialSite(tutService.getBestTutorialSite(getLanguage()));
 		System.out.println(bestTutorialSite);
 		System.out.println("success");
 		return "success";
