@@ -1,8 +1,8 @@
-package codingNinjasPractice;
+package codingNinjasPractice_Arrays;
 
 import java.util.Scanner;
 
-public class SwapAlternate {
+public class PrintAllPairs {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the size of the Array: ");
@@ -14,14 +14,10 @@ public class SwapAlternate {
             arr[i]=s.nextInt();
         }
 
-        for(int i=0; i<n; i+=2){
-            int temp=arr[i];
-            arr[i]=arr[i+1];
-            arr[i+1]=temp;
-        }
-
-        for(int k=0; k<n; k++){
-            System.out.print(arr[k]+" ");
+        for(int i=0; i<n; i++){
+            for(int j=i+1; j<n; j++){
+                System.out.println("( "+arr[i]+","+arr[j]+" )");
+            }
         }
     }
 }

@@ -1,8 +1,8 @@
-package codingNinjasPractice;
+package codingNinjasPractice_Arrays;
 
 import java.util.Scanner;
 
-public class PairSum {
+public class SortZeroesAndOnes {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the size of the Array: ");
@@ -13,16 +13,20 @@ public class PairSum {
         for(int i=0; i< arr.length; i++){
             arr[i]=s.nextInt();
         }
-
-        System.out.println("Please enter the sum you want: ");
-        int sum=s.nextInt();
-
+        int z=0;
         for(int i=0; i<n; i++){
-            for(int j=i+1; j<n; j++){
-                if(arr[i]+arr[j]==sum){
-                    System.out.println("( "+arr[i]+" , "+arr[j]+" )");
-                }
+            if(arr[i]==0){
+                z=z+1;
             }
+        }
+        for(int i=0; i<z; i++){
+            arr[i]=0;
+        }
+        for(int i=z; i<n; i++){
+            arr[i]=1;
+        }
+        for(int i=0; i< arr.length; i++){
+            System.out.println(arr[i]+" ");
         }
     }
 }

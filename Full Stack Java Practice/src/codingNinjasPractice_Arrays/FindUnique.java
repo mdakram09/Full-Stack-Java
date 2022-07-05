@@ -1,4 +1,4 @@
-package codingNinjasPractice;
+package codingNinjasPractice_Arrays;
 
 import java.util.Scanner;
 

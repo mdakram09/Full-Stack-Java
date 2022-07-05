@@ -1,8 +1,8 @@
-package codingNinjasPractice;
+package codingNinjasPractice_Arrays;
 
 import java.util.Scanner;
 
-public class FindDuplicate {
+public class PairSum {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the size of the Array: ");
@@ -14,13 +14,13 @@ public class FindDuplicate {
             arr[i]=s.nextInt();
         }
 
+        System.out.println("Please enter the sum you want: ");
+        int sum=s.nextInt();
+
         for(int i=0; i<n; i++){
             for(int j=i+1; j<n; j++){
-                if(i!=j){
-                    if(arr[i]==arr[j]){
-                        System.out.println("Element "+arr[i]+" is duplicate");
-                        break;
-                    }
+                if(arr[i]+arr[j]==sum){
+                    System.out.println("( "+arr[i]+" , "+arr[j]+" )");
                 }
             }
         }
