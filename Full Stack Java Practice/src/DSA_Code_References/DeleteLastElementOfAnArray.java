@@ -3,6 +3,7 @@ package DSA_Code_References;
 import java.util.Arrays;
 public class DeleteLastElementOfAnArray {
     public static int[] removeLastElement(int[] arr) {
+
         return Arrays.copyOf(arr, arr.length - 1);
     }
 

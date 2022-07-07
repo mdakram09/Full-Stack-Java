@@ -2,8 +2,7 @@ package DSA_Code_References;
 import java.util.Arrays;
 public class InsertElementAtAnyPositionOfAnArray {
     // Function to insert x in arr at position pos
-    public static int[] insertX(int n, int arr[],
-                                int x, int pos)
+    public static int[] insertX(int n, int arr[], int x, int pos)
     {
         int i;
 
